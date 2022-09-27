@@ -4,16 +4,12 @@ body {
   font-family: "Open Sans";
 }
 .app-container {
-  max-width: 1440px;
-  border: solid 0.1px rgb(56, 172, 120);
+  max-width: 1400px;
+
 }
 
-.header {
-  height: 64px;
-}
 .logo {
   width: 12rem;
-  height: 2rem;
 }
 
 .hero-title {
@@ -79,12 +75,13 @@ body {
 .manrope {
   font-family: "Manrope";
 }
+.sans {
+ font-family: 'Manrope', sans-serif;
+}
 .subscribe {
   font-family: "Manrope";
   font-style: normal;
   font-weight: 400;
-  /* font-size: 3rem; */
-  /* line-height: 72px; */
   display: flex;
   align-items: center;
   text-align: center;
