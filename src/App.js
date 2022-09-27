@@ -7,17 +7,13 @@ import Testimonials from "./components/testimonials"
 import Subscribe from "./components/subscribe"
 function App() {
   return (
-    <div>
-      <div className="bg-">
-        <div className="app-container mx-auto">
-          <Header />
-          <Hero />
-        </div>
-      </div>
+    <>
+      <Header />
+      <Hero />
       <Services />
       <Subscribe />
       <Footer />
-    </div>
+    </>
   );
 }
 
