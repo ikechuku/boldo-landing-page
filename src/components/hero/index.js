@@ -30,8 +30,9 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
-            <div className="border border-white border-b-midnight border-b-1 h-10 opacity-70 w-full"></div>
+            <div className="app-container mx-auto border border-white border-b-midnight border-b-1 h-10 opacity-70 w-full">
 
+            </div>
         </section>
     );
 }
