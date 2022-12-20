@@ -14,7 +14,7 @@ const Header = () => {
 
                     </nav>
                     <button className="transition border rounded-full focus:outline-none duration-150 ease-in-out hover:bg-midnight hover:text-white border-b-2 text-midnight px-8 ">
-                        <div class="cursor-pointer text-base lg:text-lg font-bold sans my-2 " >Login</div>
+                        <div class="cursor-pointer text-base lg:text-lg font-bold sans my-2 " >Create Post</div>
                     </button>
                 </div>
             </header>
